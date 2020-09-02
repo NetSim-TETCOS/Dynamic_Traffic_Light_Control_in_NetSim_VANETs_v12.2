@@ -19,7 +19,7 @@
     <DEVICE_CONFIGURATION DEVICE_COUNT="7">
       <DEVICE DEFAULT_DEVICE_NAME="NS.0" DEVICE_ID="1" DEVICE_IMAGE="VANET-WirelessNode.png" DEVICE_NAME="NS.0" DEVICE_TYPE="VANET_WIRELESSNODE" INTERFACE_COUNT="1" TYPE="NODE" WIRESHARK_OPTION="Disable">
         <POS_3D X_OR_LON="488.4" Y_OR_LAT="977.9" Z="0">
-          <MOBILITY FILE_NAME="C:\Users\Hanuman\Desktop\Dynamic_Traffic_Light_Control_in_NetSim_VANETs_v12.2\Dynamic_Traffic_WorkSpace\Dynamic_Traffic_Control\\Configuration.sumo.cfg" MODEL="SUMO" STEP_SIZE="0.4"/>
+          <MOBILITY FILE_NAME="" MODEL="SUMO" STEP_SIZE="0.4"/>
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_TYPE="WIRELESS">
           <LAYER TYPE="NETWORK_LAYER">
@@ -66,7 +66,7 @@
       </DEVICE>
       <DEVICE DEFAULT_DEVICE_NAME="EW.0" DEVICE_ID="2" DEVICE_IMAGE="VANET-WirelessNode.png" DEVICE_NAME="EW.0" DEVICE_TYPE="VANET_WIRELESSNODE" INTERFACE_COUNT="1" TYPE="NODE" WIRESHARK_OPTION="Disable">
         <POS_3D X_OR_LON="-4.9" Y_OR_LAT="488.4" Z="0">
-          <MOBILITY FILE_NAME="C:\Users\Hanuman\Desktop\Dynamic_Traffic_Light_Control_in_NetSim_VANETs_v12.2\Dynamic_Traffic_WorkSpace\Dynamic_Traffic_Control\\Configuration.sumo.cfg" MODEL="SUMO" STEP_SIZE="0.4"/>
+          <MOBILITY FILE_NAME="" MODEL="SUMO" STEP_SIZE="0.4"/>
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_TYPE="WIRELESS">
           <LAYER TYPE="NETWORK_LAYER">
@@ -113,7 +113,7 @@
       </DEVICE>
       <DEVICE DEFAULT_DEVICE_NAME="EW.1" DEVICE_ID="3" DEVICE_IMAGE="VANET-WirelessNode.png" DEVICE_NAME="EW.1" DEVICE_TYPE="VANET_WIRELESSNODE" INTERFACE_COUNT="1" TYPE="NODE" WIRESHARK_OPTION="Disable">
         <POS_3D X_OR_LON="-4.9" Y_OR_LAT="488.4" Z="0">
-          <MOBILITY FILE_NAME="C:\Users\Hanuman\Desktop\Dynamic_Traffic_Light_Control_in_NetSim_VANETs_v12.2\Dynamic_Traffic_WorkSpace\Dynamic_Traffic_Control\\Configuration.sumo.cfg" MODEL="SUMO" STEP_SIZE="0.4"/>
+          <MOBILITY FILE_NAME="" MODEL="SUMO" STEP_SIZE="0.4"/>
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_TYPE="WIRELESS">
           <LAYER TYPE="NETWORK_LAYER">
@@ -160,7 +160,7 @@
       </DEVICE>
       <DEVICE DEFAULT_DEVICE_NAME="EW.2" DEVICE_ID="4" DEVICE_IMAGE="VANET-WirelessNode.png" DEVICE_NAME="EW.2" DEVICE_TYPE="VANET_WIRELESSNODE" INTERFACE_COUNT="1" TYPE="NODE" WIRESHARK_OPTION="Disable">
         <POS_3D X_OR_LON="-4.9" Y_OR_LAT="488.4" Z="0">
-          <MOBILITY FILE_NAME="C:\Users\Hanuman\Desktop\Dynamic_Traffic_Light_Control_in_NetSim_VANETs_v12.2\Dynamic_Traffic_WorkSpace\Dynamic_Traffic_Control\\Configuration.sumo.cfg" MODEL="SUMO" STEP_SIZE="0.4"/>
+          <MOBILITY FILE_NAME="" MODEL="SUMO" STEP_SIZE="0.4"/>
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_TYPE="WIRELESS">
           <LAYER TYPE="NETWORK_LAYER">
@@ -207,7 +207,7 @@
       </DEVICE>
       <DEVICE DEFAULT_DEVICE_NAME="EW.3" DEVICE_ID="5" DEVICE_IMAGE="VANET-WirelessNode.png" DEVICE_NAME="EW.3" DEVICE_TYPE="VANET_WIRELESSNODE" INTERFACE_COUNT="1" TYPE="NODE" WIRESHARK_OPTION="Disable">
         <POS_3D X_OR_LON="-4.9" Y_OR_LAT="488.4" Z="0">
-          <MOBILITY FILE_NAME="C:\Users\Hanuman\Desktop\Dynamic_Traffic_Light_Control_in_NetSim_VANETs_v12.2\Dynamic_Traffic_WorkSpace\Dynamic_Traffic_Control\\Configuration.sumo.cfg" MODEL="SUMO" STEP_SIZE="0.4"/>
+          <MOBILITY FILE_NAME="" MODEL="SUMO" STEP_SIZE="0.4"/>
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_TYPE="WIRELESS">
           <LAYER TYPE="NETWORK_LAYER">
@@ -254,7 +254,7 @@
       </DEVICE>
       <DEVICE DEFAULT_DEVICE_NAME="EW.4" DEVICE_ID="6" DEVICE_IMAGE="VANET-WirelessNode.png" DEVICE_NAME="EW.4" DEVICE_TYPE="VANET_WIRELESSNODE" INTERFACE_COUNT="1" TYPE="NODE" WIRESHARK_OPTION="Disable">
         <POS_3D X_OR_LON="-4.9" Y_OR_LAT="488.4" Z="0">
-          <MOBILITY FILE_NAME="C:\Users\Hanuman\Desktop\Dynamic_Traffic_Light_Control_in_NetSim_VANETs_v12.2\Dynamic_Traffic_WorkSpace\Dynamic_Traffic_Control\\Configuration.sumo.cfg" MODEL="SUMO" STEP_SIZE="0.4"/>
+          <MOBILITY FILE_NAME="" MODEL="SUMO" STEP_SIZE="0.4"/>
         </POS_3D>
         <INTERFACE ID="1" INTERFACE_TYPE="WIRELESS">
           <LAYER TYPE="NETWORK_LAYER">
